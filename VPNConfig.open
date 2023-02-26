@@ -1,7 +1,7 @@
 dev tun
 tls-client
 
-remote 22359a9o26.iask.in 9994
+remote hp.bloodnose.top 9995
 
 # The "float" tells OpenVPN to accept authenticated packets from any address,
 # not only the address which was specified in the --remote option.
@@ -28,7 +28,7 @@ pull
 
 # If you want to connect by Server's IPv6 address, you should use
 # "proto udp6" in UDP mode or "proto tcp6-client" in TCP mode
-proto tcp-client
+proto udp
 
 script-security 2
 
@@ -37,7 +37,7 @@ comp-lzo
 
 reneg-sec 0
 
-cipher AES-256-CBC
+cipher AES-128-CBC
 
 auth SHA256
 
