@@ -1,7 +1,7 @@
 dev tun
 tls-client
 
-remote 119.123.209.36 9994
+remote hp.bloodnose.top 9994
 
 # The "float" tells OpenVPN to accept authenticated packets from any address,
 # not only the address which was specified in the --remote option.
