@@ -2,21 +2,13 @@
   {
     "name": "Example Server 1",
     "type": "vmess",
-    "server": "example.com",
-    "port": 443,
-    "uuid": "c4e5f6d7-e8f9-4a6b-8c9d-1e2f3g4h5i6j",
-    "alterId": 64,
+    "server": "remote.bloodnose.top",
+    "port": 33667,
+    "uuid": "934ee20f-ae3a-4452-d27d-cef29afb5647",
+    "alterId": 0,
     "cipher": "auto",
-    "tls": true
-  },
-  {
-    "name": "Example Server 2",
-    "type": "vmess",
-    "server": "example.net",
-    "port": 443,
-    "uuid": "d8e7f6c5-b4a3-2e1f-0d9c-8b7a6f5e4d3c",
-    "alterId": 128,
-    "cipher": "auto",
-    "tls": true
+    "tls": false,
+    "protocol": "ws",
+    "path": "/"
   }
 ]
