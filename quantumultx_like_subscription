@@ -1,0 +1,15 @@
+
+trojan=relay.goingqqtv.com:16205, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V1-01 - 香港 - HK
+trojan=relay.goingqqtv.com:16207, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V1-02 - 香港 - HK
+trojan=relay.goingqqtv.com:16201, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V2-01 - 日本 - JP
+trojan=relay.goingqqtv.com:16202, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V2-02 - 日本 - JP
+trojan=relay.goingqqtv.com:16203, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V3-01 - 新加坡 - SG
+trojan=relay.goingqqtv.com:16204, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V3-02 - 新加坡 - SG
+trojan=relay.goingqqtv.com:16209, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V4-01 - 台湾 - TW
+trojan=relay.goingqqtv.com:16211, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V4-02 - 台湾 - TW
+trojan=relay.goingqqtv.com:16218, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V5-01 - 美国 - US
+trojan=relay.goingqqtv.com:16219, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V5-02 - 美国 - US
+trojan=relay.goingqqtv.com:16212, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V6-01 - 韩国 - KR
+trojan=relay.goingqqtv.com:16213, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V6-02 - 韩国 - KR
+trojan=relay.goingqqtv.com:16215, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V7-01 - 英国 - UK
+trojan=relay.goingqqtv.com:16217, password=ea8b688d-71ca-369a-9b73-98a08688dc2c, tls-host=eplcgame.com, over-tls=true, tls-verification=true, tag=V7-02 - 英国 - UK
