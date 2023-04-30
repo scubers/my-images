@@ -1,1 +1,22 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjQ0MyIsDQogICJhZGQiOiAiMTI3LjAuMC4xIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjNiNjRkNjRmLWU1NDktNDEzOC04ZTA5LWEyODU1NzlkZmI2ZiIsDQogICJhaWQiOiAiMSIsDQogICJuZXQiOiAid3MiLA0KICAicGF0aCI6ICIvIiwNCiAgInR5cGUiOiAiYXV0aCIsDQogICJwYXRoIjogIi9pc2NvbmYtbmV0L3N0YWJsZS5odG1sIg0KfQ==
+[
+  {
+    "name": "Example Server 1",
+    "type": "vmess",
+    "server": "example.com",
+    "port": 443,
+    "uuid": "c4e5f6d7-e8f9-4a6b-8c9d-1e2f3g4h5i6j",
+    "alterId": 64,
+    "cipher": "auto",
+    "tls": true
+  },
+  {
+    "name": "Example Server 2",
+    "type": "vmess",
+    "server": "example.net",
+    "port": 443,
+    "uuid": "d8e7f6c5-b4a3-2e1f-0d9c-8b7a6f5e4d3c",
+    "alterId": 128,
+    "cipher": "auto",
+    "tls": true
+  }
+]
