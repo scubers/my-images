@@ -1,14 +1,1 @@
-[
-  {
-    "name": "Example Server 1",
-    "type": "vmess",
-    "server": "remote.bloodnose.top",
-    "port": 33667,
-    "uuid": "934ee20f-ae3a-4452-d27d-cef29afb5647",
-    "alterId": 0,
-    "cipher": "auto",
-    "tls": false,
-    "protocol": "ws",
-    "path": "/"
-  }
-]
+U1RBVFVTPeWJqeS9mea1gemHj++8mjIwMEdCLuKZpS7ov4fmnJ/ml7bpl7TvvJoyMDIzLTA1LTMxClJFTUFSS1M95YWo55CD6YCaCnZtZXNzOi8vZXdvZ0lDSjJJam9nSWpJaUxBb2dJQ0p3Y3lJNklDSm1ZV3hzWW1GamF5SXNDaUFnSW1Ga1pDSTZJQ0oyTW5KaGVTNWlaSEpwZVdsMWFtcGlMblJ2Y0NJc0NpQWdJbkJ2Y25RaU9pQXpNelkyTnl3S0lDQWlhV1FpT2lBaU9UTTBaV1V5TUdZdFlXVXpZUzAwTkRVeUxXUXlOMlF0WTJWbU1qbGhabUkxTmpRM0lpd0tJQ0FpWVdsa0lqb2dNQ3dLSUNBaWJtVjBJam9nSW5keklpd0tJQ0FpZEhsd1pTSTZJQ0p1YjI1bElpd0tJQ0FpYUc5emRDSTZJQ0lpTEFvZ0lDSndZWFJvSWpvZ0lpOGlMQW9nSUNKMGJITWlPaUFpYm05dVpTSUtmUT09
